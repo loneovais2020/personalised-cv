@@ -105,6 +105,7 @@ a:hover {
 .profile-img {
     height: 128px;
     width: 128px;
+    border-radius:100%;
 }
 
 .btn {
